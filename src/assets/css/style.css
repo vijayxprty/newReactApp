@@ -1,0 +1,10 @@
+p {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px 0;
+    text-align: center;
+}
+.custom {display: block;background-color: yellowgreen;color: #ffffff; font-size: 16px; font-weight: 600;}
+.custom-header {background-color: #f6f6f6;}
+ul {margin: 0px auto;}
+ul li {display: inline-block; margin: 15px 30px;}
